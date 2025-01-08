@@ -39,7 +39,7 @@ Impact:
 
 ## 🌐 Find Me Online
 
-- [GitHub](https://github.com/Samruddi11/portfolioo.github.io)
+- [GitHub](https://github.com/Kana-6/portfolio.github.io)
 - [LinkedIn](https://www.linkedin.com/in/kanishka-n-4839972b1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5e%2FyxFZkTN%2BRAOdJhZtrtA%3D%3D)
 
 ## Portfolio Highlights

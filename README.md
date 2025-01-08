@@ -52,7 +52,7 @@ Impact:
 ### 📋 Details:
 
 - Course Name: Algorithms Lab 
-- Course Code: 24ECAP202  
+- Course Code: 24ECSC205  
 - Name: Kanishka Naik 
 - SRN: 02FE23BCS164
 - Course Instructor: DR.Vaishali Parab
